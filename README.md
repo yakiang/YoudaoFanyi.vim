@@ -3,6 +3,7 @@ YoudaoFanyi.vim
 contact: strak47@gmail.com
 
 A simple plugin for vim to translate English words into Chinese  
+  
 Note: this plugin supports __English words only !__
   
 Requires Python support for Vim.  
