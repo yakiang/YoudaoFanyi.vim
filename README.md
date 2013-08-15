@@ -26,5 +26,5 @@ git clone git@github.com:yakiang/YoudaoFanyi.vim.git ~/.vim/YoudaoFanyi
   
 
 ##Usage
-use `<leader>f`, it will translate the word right under the cursor.  
+use `<leader>t`, it will translate the word right under the cursor.  
 You can also change it in `plugin/Youdao.vim`, or map your own keys in your `.vimrc` file.

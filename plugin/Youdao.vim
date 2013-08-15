@@ -9,7 +9,7 @@ endif
 
 
 let leader = exists('g:mapleader') ? g:mapleader : ','
-nnoremap <leader>f :call YoudaoFanyi()<CR>
+nnoremap <leader>t :call YoudaoFanyi()<CR>
 
 
 function! YoudaoFanyi()
