@@ -27,4 +27,6 @@ git clone git@github.com:yakiang/YoudaoFanyi.vim.git ~/.vim/YoudaoFanyi
 
 ##Usage
 use `<leader>t`, it will translate the word right under the cursor.  
-You can also change it in `plugin/Youdao.vim`, or map your own keys in your `.vimrc` file.
+You can also change it in `plugin/Youdao.vim`, or map your own keys in your `.vimrc` file.  
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yakiang/youdaofanyi.vim/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
